@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 	
-		 String Titulo1= "esta pelicula tiene cinco palabras";
+		 String Titulo1= "this film has 5 words";
 		
 		AnalizadorTitulosImpl1 analizador1 = new AnalizadorTitulosImpl1();
 		AnalizadorTitulosImpl2 analizador2 = new AnalizadorTitulosImpl2();
